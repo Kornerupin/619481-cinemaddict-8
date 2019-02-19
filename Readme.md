@@ -1,7 +1,7 @@
 # Личный проект «Киноман» [![Build status][travis-image]][travis-url]
 
 * Студент: [Андрей Брайловский](https://up.htmlacademy.ru/ecmascript/8/user/619481).
-* Наставник: `Неизвестно`.
+* Наставник: [Кекс](https://www.instagram.com/htmlacademy/).
 
 ---
 
